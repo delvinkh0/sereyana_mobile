@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74484122541",
+    "project_id": "uas-mobile-delvin",
+    "storage_bucket": "uas-mobile-delvin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74484122541:android:69083a9bd273ba88661724",
+        "android_client_info": {
+          "package_name": "com.example.serenaya_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECLhswnmWEIsovlsiPtUikwsZCwc3mzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
